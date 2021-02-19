@@ -1,0 +1,24 @@
+﻿Build started 11.10.2019 00:08:45.
+     1>Project "D:\C++\lab4\lab4\lab4.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>d:\c++\lab4\lab4\source.cpp(7): warning C4101: 'v' : unreferenced local variable
+     1>d:\c++\lab4\lab4\source.cpp(6): warning C4101: 'n' : unreferenced local variable
+     1>d:\c++\lab4\lab4\source.cpp(6): warning C4101: 's' : unreferenced local variable
+     1>d:\c++\lab4\lab4\source.cpp(7): warning C4101: 'f' : unreferenced local variable
+     1>d:\c++\lab4\lab4\source.cpp(6): warning C4101: 'g' : unreferenced local variable
+     1>d:\c++\lab4\lab4\source.cpp(7): warning C4101: 'k' : unreferenced local variable
+     1>d:\c++\lab4\lab4\source.cpp(7): warning C4101: 'l' : unreferenced local variable
+     1>d:\c++\lab4\lab4\source.cpp(6): warning C4101: 'c' : unreferenced local variable
+     1>d:\c++\lab4\lab4\source.cpp(6): warning C4101: 't' : unreferenced local variable
+     1>d:\c++\lab4\lab4\source.cpp(6): warning C4101: 'm' : unreferenced local variable
+     1>d:\c++\lab4\lab4\source.cpp(39): warning C4244: 'return' : conversion from 'double' to 'float', possible loss of data
+     1>d:\c++\lab4\lab4\source.cpp(42): error C2601: 'main' : local function definitions are illegal
+                 d:\c++\lab4\lab4\source.cpp(16): this line contains a '{' which has not yet been matched
+     1>d:\c++\lab4\lab4\source.cpp(97): fatal error C1075: end of file found before the left brace '{' at 'd:\c++\lab4\lab4\source.cpp(16)' was matched
+     1>Done Building Project "D:\C++\lab4\lab4\lab4.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.20
